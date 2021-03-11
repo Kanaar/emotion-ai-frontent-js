@@ -1,0 +1,14 @@
+.navbar {
+  justify-content: space-between;
+  background: white;
+}
+
+.navbar .navbar-collapse {
+  flex-grow: 0;
+}
+
+.navbar-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
